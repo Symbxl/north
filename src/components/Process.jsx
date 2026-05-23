@@ -12,7 +12,7 @@ export default function Process() {
         <div className="section-head">
           <span className="eyebrow">How We Work</span>
           <h2 id="proc-h">A hassle-free process, start to finish</h2>
-          <p>From your first call to the final inspection — we keep it clear, on time, and on budget.</p>
+          <p>From your first call to the final inspection, we keep it clear, on time, and on budget.</p>
         </div>
         <div className="process-grid">
           {steps.map((s) => (

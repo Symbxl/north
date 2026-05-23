@@ -57,7 +57,7 @@ export default function PrivacyPage() {
           <h2>Text messages and calls</h2>
           <p>
             When you provide your phone number, you agree that we may call or text you
-            about your inquiry, estimate, or project — including via automated systems.
+            about your inquiry, estimate, or project, including via automated systems.
             Message and data rates may apply. Reply STOP to opt out of texts at any time
             or ask us to remove you from call lists.
           </p>
@@ -80,7 +80,7 @@ export default function PrivacyPage() {
           <ul>
             <li>You can ask us to access, correct, or delete the personal information we hold about you.</li>
             <li>You can opt out of marketing emails using the unsubscribe link, or out of texts by replying STOP.</li>
-            <li>Utah residents and residents of other states with applicable privacy laws may have additional rights — contact us to exercise them.</li>
+            <li>Utah residents and residents of other states with applicable privacy laws may have additional rights, contact us to exercise them.</li>
           </ul>
 
           <h2>Children</h2>

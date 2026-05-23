@@ -39,7 +39,7 @@ export default function TermsPage() {
           <ul>
             <li>You agree to use the Site only for lawful purposes and in a way that doesn't infringe on the rights of others.</li>
             <li>You will not attempt to disrupt, reverse-engineer, scrape, or gain unauthorized access to the Site or its systems.</li>
-            <li>All content on the Site — text, images, logos, design — is owned by True North Roofing or its licensors and may not be copied or used without written permission.</li>
+            <li>All content on the Site, text, images, logos, design, is owned by True North Roofing or its licensors and may not be copied or used without written permission.</li>
           </ul>
 
           <h2>Estimates and quotes</h2>

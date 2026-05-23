@@ -42,7 +42,7 @@ export default function FinancingCalculator() {
           <h2 id="fin-h">Estimate your monthly payment</h2>
           <p>
             Get a quick estimate for your roofing or exterior project. Financing is
-            available through Hearth — quotes won't affect your credit score.
+            available through Hearth, quotes won't affect your credit score.
           </p>
         </div>
 

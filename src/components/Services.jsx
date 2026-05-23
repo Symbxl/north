@@ -22,7 +22,7 @@ const services = [
   {
     title: 'Roofing Recover',
     img: '/media/roof-5.jpg',
-    desc: 'We can "recover" an existing roof if certain conditions are met to uphold local building codes — saving time and disposal cost.',
+    desc: 'We can "recover" an existing roof if certain conditions are met to uphold local building codes, saving time and disposal cost.',
   },
   {
     title: 'Storm Damage Repair',
@@ -49,7 +49,7 @@ export default function Services() {
           <span className="eyebrow">Residential Services</span>
           <h2 id="svc-h">Our Services</h2>
           <p>
-            Full-service residential roofing, siding, gutters, and windows —
+            Full-service residential roofing, siding, gutters, and windows ,
             backed by 30 years of trade experience and over 10,000 completed
             projects across Utah.
           </p>

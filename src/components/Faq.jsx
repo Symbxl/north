@@ -2,7 +2,7 @@ const faqs = [
   { q: 'What areas does True North Roofing serve?', a: 'We serve Salt Lake City, Holladay, Sandy, Draper, Murray, Millcreek, and surrounding Salt Lake, Utah, Davis, and Summit counties.' },
   { q: 'Is True North Roofing licensed and insured?', a: 'Yes. We are fully licensed and insured in the state of Utah, with over 30 years of combined trade experience.' },
   { q: 'What roofing materials do you install?', a: 'We install rubberized asphalt shingles, metal roofing, and low-slope products including TPO and PVC for residential and commercial buildings.' },
-  { q: 'Do you offer financing?', a: 'Yes — financing is available through Hearth for qualifying customers. Ask us for details when you request your estimate.' },
+  { q: 'Do you offer financing?', a: 'Yes, financing is available through Hearth for qualifying customers. Ask us for details when you request your estimate.' },
   { q: 'Can you handle storm or hail damage?', a: 'Absolutely. Whether wind, hail, fire, or other damage, we can make repairs or full replacements to suit your situation and work with your insurer when needed.' },
   { q: 'How do I get a free estimate?', a: 'Call (435) 292-3638, email eric@truenorthroof.com, or submit the free estimate form on this page. We respond fast.' },
 ]

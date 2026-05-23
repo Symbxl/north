@@ -15,7 +15,7 @@ export default function About() {
           <p>
             True North Roofing is a licensed and insured local Utah contractor
             specializing in residential and commercial roof installation,
-            replacement, and maintenance. Don't leave your home to chance —
+            replacement, and maintenance. Don't leave your home to chance ,
             leave it to the experts.
           </p>
           <p>
